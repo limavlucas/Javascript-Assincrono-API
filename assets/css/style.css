@@ -8,15 +8,21 @@ body {
 	height: 100vh;
 	margin: 0;
 	background-color: beige;
+	background-image: url(/assets/img/background1.avif);
 }
 
 img {
 	max-width: 600px;
+	max-height: 450px;
 	border-radius: 30px;
 }
 
 main {
 	text-align: center;
+}
+
+h1{
+	color: orangered;
 }
 
 button {
